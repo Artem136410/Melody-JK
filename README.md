@@ -1,2 +1,2 @@
-# Melody-JK
-Учебный проект Glo academy
+# Melody-JK-Учебный проект Glo academy
+Проект выполнил: Артём Понамарёв
